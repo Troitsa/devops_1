@@ -15,5 +15,5 @@ if (($#==1));
           echo $NUM2
       fi
   else
-    echo "Неверное количество параметров. Введите './calc.sh file.txt file2.tx' или './calc.sh file.txt'"
+    echo "Неверное количество параметров. Введите './calc.sh file.txt file2.txt' или './calc.sh file.txt'"
 fi
